@@ -1,0 +1,22 @@
+#header {
+    color:white;
+    background-color:lightgreen;
+  font-size:30px;
+  font-family:Arial;
+  width:100%;
+  border-radius:5px;
+}
+h1,h2,h3,h4,h5,h6,p {
+    font-family:Arial;
+}
+body {
+text-align:center;
+background-color:snow;
+}
+button {
+    background-color:lightgreen;
+    border:1px solid rgb(51, 245, 51);
+    border-radius:5px;
+    color:white;
+    cursor:pointer;
+}
